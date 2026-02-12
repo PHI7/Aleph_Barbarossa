@@ -31,7 +31,7 @@ function IvoryCoinPresentation() {
             }}
           >
             <img 
-              src="https://violet-fascinating-galliform-784.mypinata.cloud/ipfs/bafybeiboyknv7pfnzj6tsqoajyxlybdun2l6zk6pcpxtjf22iv3s2cwqky"
+              src="https://ipfs.io/ipfs/bafybeiboyknv7pfnzj6tsqoajyxlybdun2l6zk6pcpxtjf22iv3s2cwqky"
               alt="Elfenbein Coin Vorderseite"
               className="w-full h-full object-cover rounded-full"
             />

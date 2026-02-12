@@ -32,7 +32,7 @@ function CoinPresentation() {
             }}
           >
             <img 
-              src="https://violet-fascinating-galliform-784.mypinata.cloud/ipfs/bafybeibtqhphuojqvz4rivsyflgbham4qsudva3r2t5cg2he765b33xtje"
+              src="https://ipfs.io/ipfs/bafybeibtqhphuojqvz4rivsyflgbham4qsudva3r2t5cg2he765b33xtje"
               alt="Löwen Coin Vorderseite"
               className="w-full h-full object-cover rounded-full"
             />
